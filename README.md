@@ -80,4 +80,4 @@ public/              # Arquivos estáticos
 
 ---
 
-**Desenvolvido por:** [@LucasDeAlmeidaMeira](https://github.com/LucasDeAlmeidaMeira)
+**Desenvolvido por:** [@PolyannaMeira](https://github.com/PolyannaMeira)
